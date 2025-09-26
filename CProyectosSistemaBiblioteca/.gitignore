@@ -1,0 +1,11 @@
+# Ignorar entornos virtuales y archivos innecesarios
+venv/
+__pycache__/
+Nueva carpeta/
+*.log
+*.dll
+*.exe
+*.pdb
+Lib/
+DLLs/
+Scripts/
